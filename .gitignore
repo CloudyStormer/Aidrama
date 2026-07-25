@@ -1,0 +1,16 @@
+# 忽略大体积视频文件（GitHub单文件限制100M）
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# 忽略临时文件
+*.tmp
+*.temp
+*.log
+Thumbs.db
+.DS_Store
+
+# 忽略剪映项目缓存
+*.draft
+*.draft_cache
