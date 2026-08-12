@@ -1,0 +1,227 @@
+{
+  "schema": "aimg-character-grid/v1",
+  "status": "REVIEW",
+  "role_id": "角色-002",
+  "role_name": "苏晚",
+  "version": "v2",
+  "image_file": "角色-002_苏晚_九宫格候选_v2.png",
+  "sha256": "522ad654d24fc62b9f89e01c1c499dbd570672474c18aca3d9ef508bdec97337",
+  "width": 3072,
+  "height": 3072,
+  "cell_width": 1024,
+  "cell_height": 1024,
+  "direction_basis": "character_self",
+  "mirror_generated": false,
+  "color_space": "sRGB",
+  "label_font": "C:/WINDOWS/Fonts/msyhbd.ttc",
+  "cells": [
+    {
+      "cell": 1,
+      "code": "V01-F0",
+      "view": "正面标准转面",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V01-F0_正面标准转面.png",
+      "source_sha256": "cc10f798dbe36ee2cd7366809d7fe9cd735a5fe3d58515249e540859c7c6cf50",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 2,
+      "code": "V02-B180",
+      "view": "背面",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V02-B180_背面.png",
+      "source_sha256": "459565a14036c4dfdb29944876a93c9cf2a15af96ab85f7b6cbcec12a08bdf22",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 3,
+      "code": "V03-L90",
+      "view": "角色自身左侧面",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V03-L90_角色自身左侧面.png",
+      "source_sha256": "a607cf432b9cc20a797dfa9e667a36b7afc7b1e1140e81db6dcb9991d1e47f6a",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 4,
+      "code": "V04-R90",
+      "view": "角色自身右侧面",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V04-R90_角色自身右侧面.png",
+      "source_sha256": "1958e8e05921f6df9d371209ba4857bd34856ae9a595a73ee373887aa07e3bd4",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 5,
+      "code": "V05-LF45",
+      "view": "角色自身左前3/4",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V05-LF45_角色自身左前3比4.png",
+      "source_sha256": "bc520bb5eea9fba3897ee5f43c2737d58d47827d0b80eae1703a287b9d221ced",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 6,
+      "code": "V06-RF45",
+      "view": "角色自身右前3/4",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V06-RF45_角色自身右前3比4.png",
+      "source_sha256": "d3b57b888e40a093b5b6c35959d9377a670842a3bd100a6c53b633746b254cba",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 7,
+      "code": "V07-LB135",
+      "view": "角色自身左后3/4",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V07-LB135_角色自身左后3比4.png",
+      "source_sha256": "4586e592b131814217dfdb38ed21c9658c7ea15351a27dbd8006fdc8cb556f90",
+      "source_width": 1024,
+      "source_height": 1536,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 8,
+      "code": "V08-RB135",
+      "view": "角色自身右后3/4",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V08-RB135_角色自身右后3比4.png",
+      "source_sha256": "69e9318bae7d4d3dcd1f93c4edd3126f8baa5b8e7ea5f3e77f9743cc6ceccce9",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "portrait_smart_crop_fill_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "focus_x": 0.5,
+        "focus_y": 0.08,
+        "resampling": "LANCZOS",
+        "flip": false
+      }
+    },
+    {
+      "cell": 9,
+      "code": "V09-FULL",
+      "view": "正面全身",
+      "source_path": "D:/.aaProject-Bruce/Aidrama/AI漫剧_重生了一百次我还是发不了财/07_素材资源/候选图/第四轮_苏晚逐格重建_待用户审批/01_九宫格源图/V09-FULL_正面全身.png",
+      "source_sha256": "ff157874e0aaf874874bcff4075ef8e689dfcbaf4905045f1e083cf3974f4ead",
+      "source_width": 941,
+      "source_height": 1672,
+      "source_mode": "RGB",
+      "source_format": "PNG",
+      "source_exif_orientation": 1,
+      "source_rotation_normalized": false,
+      "render": {
+        "mode": "contain_no_crop_edge_extend_v1",
+        "target_width": 1024,
+        "target_height": 1024,
+        "background_rgb": [
+          242,
+          242,
+          242
+        ],
+        "resampling": "LANCZOS",
+        "crop": false,
+        "flip": false,
+        "letterbox_fill": "source_boundary_pixel_extension"
+      }
+    }
+  ],
+  "qa": {
+    "directions_manually_verified": true,
+    "mirror_prohibited_and_verified": true,
+    "user_approval": "REVIEW"
+  }
+}
