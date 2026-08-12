@@ -1,0 +1,65 @@
+{
+  "schema": "aimg-character-grid/v1",
+  "status": "REVIEW",
+  "role_id": "角色-001",
+  "role_name": "林默",
+  "version": "v1",
+  "image_file": "角色-001_林默_九宫格候选_v1.png",
+  "sha256": "816b88f56a731a64987fa9ad6c244fccc02a6faa2dbee66ba1d1dbfc11115d6a",
+  "width": 1254,
+  "height": 1254,
+  "direction_basis": "character_self",
+  "mirror_generated": false,
+  "cells": [
+    {
+      "cell": 1,
+      "code": "V01-F0",
+      "view": "正面标准转面"
+    },
+    {
+      "cell": 2,
+      "code": "V02-B180",
+      "view": "背面"
+    },
+    {
+      "cell": 3,
+      "code": "V03-L90",
+      "view": "角色自身左侧面"
+    },
+    {
+      "cell": 4,
+      "code": "V04-R90",
+      "view": "角色自身右侧面"
+    },
+    {
+      "cell": 5,
+      "code": "V05-LF45",
+      "view": "角色自身左前3/4"
+    },
+    {
+      "cell": 6,
+      "code": "V06-RF45",
+      "view": "角色自身右前3/4"
+    },
+    {
+      "cell": 7,
+      "code": "V07-LB135",
+      "view": "角色自身左后3/4"
+    },
+    {
+      "cell": 8,
+      "code": "V08-RB135",
+      "view": "角色自身右后3/4"
+    },
+    {
+      "cell": 9,
+      "code": "V09-FULL",
+      "view": "正面全身"
+    }
+  ],
+  "qa": {
+    "directions_manually_verified": true,
+    "mirror_prohibited_and_verified": true,
+    "user_approval": "REVIEW"
+  }
+}
